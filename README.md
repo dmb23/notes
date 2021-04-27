@@ -6,14 +6,20 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_0 notes and counting..._
+_2 notes and counting..._
 
 ---
 
 ### Categories
 
+* [Git](#git)
 
 ---
+
+### Git
+
+- [Tags & versions in git](git/tag_versions.md)
+- [deleted branches and remotes](git/remove_remote_branch.md)
 
 ## About
 
