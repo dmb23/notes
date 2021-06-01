@@ -6,13 +6,16 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_2 notes and counting..._
+_7 notes and counting..._
 
 ---
 
 ### Categories
 
 * [Git](#git)
+* [Kedro](#kedro)
+* [Nvidia](#nvidia)
+* [Smoothing](#smoothing)
 
 ---
 
@@ -20,6 +23,20 @@ _2 notes and counting..._
 
 - [Tags & versions in git](git/tag_versions.md)
 - [deleted branches and remotes](git/remove_remote_branch.md)
+
+### Kedro
+
+- [set up a new repo](kedro/init.md)
+
+### Nvidia
+
+- [Fixing broken drivers](nvidia/driver_reinstalling.md)
+
+### Smoothing
+
+- [GoTo choice of smoothing](smoothing/goto_choice.md)
+- [Weighted Savitzky-Golay](smoothing/weighted_savgol.md)
+- [stable Savitzky-Golay](smoothing/stable_savgol.md)
 
 ## About
 
