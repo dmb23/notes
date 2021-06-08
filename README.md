@@ -6,7 +6,7 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_7 notes and counting..._
+_8 notes and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _7 notes and counting..._
 * [Git](#git)
 * [Kedro](#kedro)
 * [Nvidia](#nvidia)
+* [Remote_files](#remote_files)
 * [Smoothing](#smoothing)
 
 ---
@@ -31,6 +32,10 @@ _7 notes and counting..._
 ### Nvidia
 
 - [Fixing broken drivers](nvidia/driver_reinstalling.md)
+
+### Remote_files
+
+- [Handle remote files via only sftp access](remote_files/sftp.md)
 
 ### Smoothing
 
