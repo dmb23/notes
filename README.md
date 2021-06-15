@@ -6,7 +6,7 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_8 notes and counting..._
+_9 notes and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _8 notes and counting..._
 
 ### Nvidia
 
+- [Fix annoying bug with 460.80](nvidia/bug_460_80.md)
 - [Fixing broken drivers](nvidia/driver_reinstalling.md)
 
 ### Remote_files
