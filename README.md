@@ -6,13 +6,13 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_11 notes and counting..._
+_12 notes and counting..._
 
 ---
 
 ### Categories
 
-* [Tools](#Tools)
+* [Linux_tools](#Linux_Tools)
 * [Zotero](#Zotero)
 * [Git](#git)
 * [Kedro](#kedro)
@@ -22,9 +22,10 @@ _11 notes and counting..._
 
 ---
 
-### Tools
+### Linux_tools
 
-- [`guake` in the alt-tab menu](Tools/guake_taskbar.md)
+- [Headphones not found after plugging in](Linux_Tools/headphones_jack.md)
+- [`guake` in the alt-tab menu](Linux_Tools/guake_taskbar.md)
 
 ### Zotero
 
