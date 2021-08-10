@@ -6,12 +6,14 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_9 notes and counting..._
+_11 notes and counting..._
 
 ---
 
 ### Categories
 
+* [Tools](#Tools)
+* [Zotero](#Zotero)
 * [Git](#git)
 * [Kedro](#kedro)
 * [Nvidia](#nvidia)
@@ -19,6 +21,14 @@ _9 notes and counting..._
 * [Smoothing](#smoothing)
 
 ---
+
+### Tools
+
+- [`guake` in the alt-tab menu](Tools/guake_taskbar.md)
+
+### Zotero
+
+- [Sync Paper library with Zotero](Zotero/zotero.md)
 
 ### Git
 
