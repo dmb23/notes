@@ -6,12 +6,13 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_12 notes and counting..._
+_13 notes and counting..._
 
 ---
 
 ### Categories
 
+* [Azure](#Azure)
 * [Linux_tools](#Linux_Tools)
 * [Zotero](#Zotero)
 * [Git](#git)
@@ -21,6 +22,10 @@ _12 notes and counting..._
 * [Smoothing](#smoothing)
 
 ---
+
+### Azure
+
+- [Accessing Data Sources with Synapse](Azure/synapse_data_access.md)
 
 ### Linux_tools
 
