@@ -6,7 +6,7 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_13 notes and counting..._
+_14 notes and counting..._
 
 ---
 
@@ -14,6 +14,7 @@ _13 notes and counting..._
 
 * [Azure](#Azure)
 * [Linux_tools](#Linux_Tools)
+* [Macm1](#MacM1)
 * [Zotero](#Zotero)
 * [Git](#git)
 * [Kedro](#kedro)
@@ -31,6 +32,10 @@ _13 notes and counting..._
 
 - [Headphones not found after plugging in](Linux_Tools/headphones_jack.md)
 - [`guake` in the alt-tab menu](Linux_Tools/guake_taskbar.md)
+
+### Macm1
+
+- [Fast (?) python environment on Mac M1](MacM1/python_env.md)
 
 ### Zotero
 
