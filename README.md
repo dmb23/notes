@@ -6,7 +6,7 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_14 notes and counting..._
+_16 notes and counting..._
 
 ---
 
@@ -21,6 +21,7 @@ _14 notes and counting..._
 * [Nvidia](#nvidia)
 * [Remote_files](#remote_files)
 * [Smoothing](#smoothing)
+* [Vscode](#vscode)
 
 ---
 
@@ -35,6 +36,7 @@ _14 notes and counting..._
 
 ### Macm1
 
+- [Devcontainer in VSCode](MacM1/devcontainer.md)
 - [Fast (?) python environment on Mac M1](MacM1/python_env.md)
 
 ### Zotero
@@ -64,6 +66,10 @@ _14 notes and counting..._
 - [GoTo choice of smoothing](smoothing/goto_choice.md)
 - [Weighted Savitzky-Golay](smoothing/weighted_savgol.md)
 - [stable Savitzky-Golay](smoothing/stable_savgol.md)
+
+### Vscode
+
+- [Use black and isort together in VS Code](vscode/black_isort.md)
 
 ## About
 
