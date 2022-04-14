@@ -6,7 +6,7 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_16 notes and counting..._
+_17 notes and counting..._
 
 ---
 
@@ -36,7 +36,6 @@ _16 notes and counting..._
 
 ### Macm1
 
-- [Devcontainer in VSCode](MacM1/devcontainer.md)
 - [Fast (?) python environment on Mac M1](MacM1/python_env.md)
 
 ### Zotero
@@ -69,6 +68,8 @@ _16 notes and counting..._
 
 ### Vscode
 
+- [Devcontainer in VSCode - container platform](vscode/devcontainer_platform.md)
+- [Devcontainers in VS Code - SSH on Mac](vscode/devcontainer_ssh.md)
 - [Use black and isort together in VS Code](vscode/black_isort.md)
 
 ## About

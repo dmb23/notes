@@ -1,4 +1,4 @@
-#Devcontainer in VSCode
+#Devcontainer in VSCode - container platform
 
 One of the ways to evade the eternal struggle against the gods of ARM64 might be to use development containers in VS Code. Those should be possible to set up with a different architecture (as long as performeance is not becoming painful).
 
