@@ -6,7 +6,7 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_17 notes and counting..._
+_18 notes and counting..._
 
 ---
 
@@ -44,6 +44,7 @@ _17 notes and counting..._
 
 ### Git
 
+- [Configuring git](git/config.md)
 - [Tags & versions in git](git/tag_versions.md)
 - [deleted branches and remotes](git/remove_remote_branch.md)
 
