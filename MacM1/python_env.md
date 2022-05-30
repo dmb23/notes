@@ -2,10 +2,10 @@
 
 what did I find so far on the big question: how to get an efficient python setup?
 
-1. set up an `mambaforge` environment
+1. set up an `mambaforge` environment, either directly or via pyenv
     - *mambaforge* is supposed to be better with ARM than conda 
 1. install minimal required packages for pip:
-    - `python`
+    - `python==3.8` (3.8 required for `tensorflow-macos`)
     - `cython`, `pybind11` to compile numpy later
     - `apple::tensorflow-deps` as required by the [Apple install instructions](https://developer.apple.com/metal/tensorflow-plugin/)
     - **not more!** When I tried to install more packages at this point, the compilation of Numpy would fail.
@@ -19,6 +19,6 @@ what did I find so far on the big question: how to get an efficient python setup
 1. if not already done: tell conda to include pip packages in its requirements resolution
     - `conda config --set pip_interop_enabled True`
 1. lastly, install missing packages via conda
-    - `conda install pandas jupyter matplotlib cmocean scipy scikit-learn`
+    - `conda install pandas jupyter matplotlib cmocean seaborn scipy scikit-learn black isort`
 
 This sequence allowed me to have everything running in the end. I did not yet test extensively, let's hope it works... Also: so far I don't see a clean way of automating this.
