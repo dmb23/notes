@@ -6,7 +6,7 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_19 notes and counting..._
+_21 notes and counting..._
 
 ---
 
@@ -16,6 +16,7 @@ _19 notes and counting..._
 * [Linux_tools](#Linux_Tools)
 * [Macm1](#MacM1)
 * [Zotero](#Zotero)
+* [Docs](#docs)
 * [Git](#git)
 * [Kedro](#kedro)
 * [Nvidia](#nvidia)
@@ -42,10 +43,15 @@ _19 notes and counting..._
 
 - [Sync Paper library with Zotero](Zotero/zotero.md)
 
+### Docs
+
+- [Class Diagrams in Python](docs/classdiagrams.md)
+
 ### Git
 
 - [Configuring git](git/config.md)
 - [Move recent commits from one branch to another](git/move_commits.md)
+- [Rollback changes to git repositories](git/rollback_changes.md)
 - [Tags & versions in git](git/tag_versions.md)
 - [deleted branches and remotes](git/remove_remote_branch.md)
 
