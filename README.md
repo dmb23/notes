@@ -6,7 +6,7 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_21 notes and counting..._
+_22 notes and counting..._
 
 ---
 
@@ -38,6 +38,7 @@ _21 notes and counting..._
 ### Macm1
 
 - [Fast (?) python environment on Mac M1](MacM1/python_env.md)
+- [Install ``grpcio` on a M1](MacM1/grpcio.md)
 
 ### Zotero
 
