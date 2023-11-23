@@ -6,7 +6,7 @@ when I write them down.
 Heavily inspired by "Today I learned"
 
 
-_23 notes and counting..._
+_24 notes and counting..._
 
 ---
 
@@ -52,6 +52,7 @@ _23 notes and counting..._
 ### Git
 
 - [Configuring git](git/config.md)
+- [How to manage multiple git identities](git/multiple_ssh_keys.md)
 - [Move recent commits from one branch to another](git/move_commits.md)
 - [Rollback changes to git repositories](git/rollback_changes.md)
 - [Tags & versions in git](git/tag_versions.md)
